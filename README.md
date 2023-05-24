@@ -5,7 +5,7 @@ O projeto é uma galeria de filmes do Homem-Aranha, criada com HTML, CSS e JavaS
 ## 🚀 Demonstração
 
 ![image](assets/images/finalproject.png)
-[Clique aqui](linkaqui) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/Spider-Man-Spider-Verse/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
